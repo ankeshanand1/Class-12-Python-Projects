@@ -549,3 +549,5 @@ while user==1:
 while user==2: 
     admin()
 
+
+    
