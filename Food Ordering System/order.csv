@@ -1,14 +1,14 @@
 ,phone,name,address,pincode,orderno,quantity,Particulars,Specifications,Sub-Total,GST 18%:,Total,Status
-0,9829527620,Sudhanshu,"31-A, Govindpuri",302019,3397863565,6,Samosa,no,60,10.8,70.8,In Process
-0,8209372353,Ankesh,31-A,302019,6350097268,2,Chowmein,no,60,10.8,70.8,In Process
-0,8209372353,Ankesh,31-A,302019,8051519865,6,Chowmein,,180,32.4,212.4,Delivered
-0,8209372353,Ankesh,31-A,302019,3719431255,5,Momos,,150,27,177,In Process
-0,9829527620,Sudhanshu,"31-A, Govindpuri",302019,8292935973,3,Pastry,,60,10.8,70.8,In Process
-0,8209372353,Ankesh,31-A,302019,8941572984,4,Pizza,extra cheese,160,28.8,188.8,In Process
-0,9829527620,Sudhanshu,"31-A, Govindpuri",302019,6809951509,3,Pizza,,120,21.6,141.6,In Process
-0,9829527620,Sudhanshu,"31-A, Govindpuri",302019,1577615941,2,Samosa,no,20,3.6,23.6,In Process
-0,8209372353,Ankesh,31-A,302019,2578983281,1,Chowmein,no,30,5.4,35.4,In Process
-0,8209372353,Ankesh,31-A,302019,9502796634,4,Pizza,no,160,28.8,188.8,In Process
-0,9829527620,Sudhanshu,"31-A, Govindpuri",302019,9837071019,5,Chowmein,no,150,27.0,177.0,In Process
-0,8384,tommy,jaipr,302001,8183323279,7,Pastry,sauce,140,25.2,165.2,In Process
-0,8209372353,Ankesh,31-A,302019,1092466868,4,Chowmein,no,120,21.6,141.6,In Process
+0,**********,**********,"**********",**********,3397863565,6,Samosa,no,60,10.8,70.8,In Process
+0,**********,,Ankesh,**********,**********,6350097268,2,Chowmein,no,60,10.8,70.8,In Process
+0,**********,Ankesh,**********,**********,8051519865,6,Chowmein,,180,32.4,212.4,Delivered
+0,**********,Ankesh,**********,**********,3719431255,5,Momos,,150,27,177,In Process
+0,**********,**********,"**********",**********,**********,3,Pastry,,60,10.8,70.8,In Process
+0,**********,Ankesh,**********,**********,8941572984,4,Pizza,extra cheese,160,28.8,188.8,In Process
+0,**********,**********,"**********",**********,6809951509,3,Pizza,,120,21.6,141.6,In Process
+0,**********,**********,"**********",**********,1577615941,2,Samosa,no,20,3.6,23.6,In Process
+0,**********,Ankesh,**********,**********,2578983281,1,Chowmein,no,30,5.4,35.4,In Process
+0,**********,Ankesh,**********,**********,9502796634,4,Pizza,no,160,28.8,188.8,In Process
+0,**********,**********,"**********",**********,9837071019,5,Chowmein,no,150,27.0,177.0,In Process
+0,**********,tommy,jaipr,302001,8183323279,7,Pastry,sauce,140,25.2,165.2,In Process
+0,**********,Ankesh,**********,**********,1092466868,4,Chowmein,no,120,21.6,141.6,In Process
